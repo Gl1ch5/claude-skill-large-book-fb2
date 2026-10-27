@@ -1,0 +1,88 @@
+{
+  "num": 1,
+  "label": "Часть первая",
+  "title": "",
+  "synopsis": "",
+  "chapters": [
+    {
+      "num": 1,
+      "title": "",
+      "pov": "",
+      "function": "крючок и завязка",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 21.7
+    },
+    {
+      "num": 2,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 21.7
+    },
+    {
+      "num": 3,
+      "title": "",
+      "pov": "",
+      "function": "событие-катализатор",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 21.7
+    },
+    {
+      "num": 4,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 21.7
+    },
+    {
+      "num": 5,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 21.7
+    },
+    {
+      "num": 6,
+      "title": "",
+      "pov": "",
+      "function": "точка невозврата",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 21.7
+    },
+    {
+      "num": 7,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 21.7
+    },
+    {
+      "num": 8,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 21.7
+    }
+  ]
+}

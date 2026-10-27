@@ -1,0 +1,88 @@
+{
+  "num": 3,
+  "label": "Часть третья",
+  "title": "",
+  "synopsis": "",
+  "chapters": [
+    {
+      "num": 17,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 18,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 19,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 20,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 21,
+      "title": "",
+      "pov": "",
+      "function": "середина: переворот",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 22,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 23,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 24,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    }
+  ]
+}
