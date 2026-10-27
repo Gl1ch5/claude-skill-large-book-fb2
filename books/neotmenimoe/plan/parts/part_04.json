@@ -1,0 +1,88 @@
+{
+  "num": 4,
+  "label": "Часть четвёртая",
+  "title": "",
+  "synopsis": "",
+  "chapters": [
+    {
+      "num": 25,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 26,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 27,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 28,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 29,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 30,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 31,
+      "title": "",
+      "pov": "",
+      "function": "всё потеряно",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 32,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    }
+  ]
+}

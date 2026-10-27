@@ -1,0 +1,88 @@
+{
+  "num": 5,
+  "label": "Часть пятая",
+  "title": "",
+  "synopsis": "",
+  "chapters": [
+    {
+      "num": 33,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 34,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 35,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 36,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 37,
+      "title": "",
+      "pov": "",
+      "function": "кульминация",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 38,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 39,
+      "title": "",
+      "pov": "",
+      "function": "",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    },
+    {
+      "num": 40,
+      "title": "",
+      "pov": "",
+      "function": "развязка",
+      "summary": "",
+      "scenes": [],
+      "ends_with": "",
+      "target_pages": 25.0
+    }
+  ]
+}
